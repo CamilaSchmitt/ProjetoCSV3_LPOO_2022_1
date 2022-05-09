@@ -14,8 +14,7 @@ import javax.persistence.Table;
 
 /**
  *
- * @author telmo
- * @data : 11/03/2022
+ * @author 20201PF.CC0114
  */
 
 @Entity
