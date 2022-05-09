@@ -15,8 +15,7 @@ import javax.persistence.Table;
 
 /**
  *
- * @author telmo
- * @doc: https://www.devmedia.com.br/tipos-de-heranca-no-hibernate/28641
+ * @author 20201PF.CC0114
  */
 
 @Entity
