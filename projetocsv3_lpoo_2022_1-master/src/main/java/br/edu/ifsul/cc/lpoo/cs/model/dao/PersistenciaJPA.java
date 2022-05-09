@@ -10,7 +10,7 @@ import javax.persistence.Persistence;
 
 /**
  *
- * @author telmo
+ * @author 20201PF.CC0114
  */
 public class PersistenciaJPA implements InterfacePersistencia{
     
