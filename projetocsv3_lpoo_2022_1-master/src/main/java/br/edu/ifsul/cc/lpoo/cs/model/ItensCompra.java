@@ -14,9 +14,8 @@ import javax.persistence.Table;
 
 /**
  *
- * @author telmo
+ * @author 20201PF.CC0114
  */
-
 @Entity
 @Table(name = "tb_itenscompra")
 public class ItensCompra implements Serializable {
