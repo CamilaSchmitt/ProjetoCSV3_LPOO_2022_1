@@ -8,7 +8,7 @@ import javax.persistence.ManyToOne;
 
 /**
  *
- * @author telmo
+ * @author 20201PF.CC0114
  */
 
 @Embeddable
