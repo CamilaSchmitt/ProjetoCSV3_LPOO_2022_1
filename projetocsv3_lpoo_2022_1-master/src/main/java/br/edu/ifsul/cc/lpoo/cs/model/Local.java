@@ -12,9 +12,8 @@ import javax.persistence.Table;
 
 /**
  *
- * @author telmo
+ * @author 20201PF.CC0114
  */
-
 @Entity
 @Table(name = "tb_local")
 public class Local implements Serializable {
