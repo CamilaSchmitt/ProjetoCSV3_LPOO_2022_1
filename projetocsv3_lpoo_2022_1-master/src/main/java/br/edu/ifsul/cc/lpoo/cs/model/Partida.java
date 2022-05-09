@@ -24,7 +24,7 @@ import javax.persistence.TemporalType;
 
 /**
  *
- * @author telmo
+ * @author 20201PF.CC0114
  */
 
 @Entity
