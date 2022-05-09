@@ -8,7 +8,7 @@ import org.junit.Test;
 
 /**
  *
- * @author telmo
+ * @author 20201PF.CC0114
  */
 public class TestPersistenceJPA {
     
