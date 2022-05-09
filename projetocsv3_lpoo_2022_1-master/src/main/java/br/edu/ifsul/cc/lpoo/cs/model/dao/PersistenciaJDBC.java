@@ -7,8 +7,8 @@ import java.util.List;
 
 /**
  *
- * @author telmo
- */
+ * @author 20201PF.CC0114
+ */ 
 public class PersistenciaJDBC implements InterfacePersistencia{
     /*
       <property name="javax.persistence.jdbc.url" value="jdbc:postgresql://localhost:5432/db_lpoo_cs_2022_1"/>
